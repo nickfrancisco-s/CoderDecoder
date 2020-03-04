@@ -1,0 +1,12 @@
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\bin\Release\CoderDecoder.exe.config
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\bin\Release\CoderDecoder.exe
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\bin\Release\CoderDecoder.pdb
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\obj\Release\MainWindow.baml
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\obj\Release\MainWindow.g.cs
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\obj\Release\App.g.cs
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\obj\Release\CoderDecoder_MarkupCompile.cache
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\obj\Release\CoderDecoder.g.resources
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\obj\Release\CoderDecoder.Properties.Resources.resources
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\obj\Release\CoderDecoder.csproj.GenerateResource.Cache
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\obj\Release\CoderDecoder.exe
+c:\users\evans_b\documents\visual studio 2013\Projects\CoderDecoder\CoderDecoder\obj\Release\CoderDecoder.pdb

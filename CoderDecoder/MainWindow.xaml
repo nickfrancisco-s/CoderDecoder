@@ -1,0 +1,16 @@
+﻿<Window x:Class="CoderDecoder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CodeyCodey" Height="430" Width="585">
+    <Grid>
+        <TextBox x:Name="From" HorizontalAlignment="Left" Height="168" Margin="56,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="511"/>
+        <TextBox x:Name="To" HorizontalAlignment="Left" Margin="56,202,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="162" Width="511" Focusable="True"/>
+        <Button x:Name="Encode" Content="Encode" HorizontalAlignment="Left" Margin="492,369,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.8,0.7" Height="30" Click="Encode_Click"/>
+        <Button x:Name="Decode" Content="Decode" HorizontalAlignment="Left" Margin="56,369,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.8,0.7" Height="30" Click="Decode_Click"/>
+        <TextBox x:Name="Password" HorizontalAlignment="Left" Height="23" Margin="56,6,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="511"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1,9,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="4,30,0,0" TextWrapping="Wrap" Text="Message" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="4,202,0,0" TextWrapping="Wrap" Text="Result" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
